@@ -1,11 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-01-30T14:48:08.382Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ZXeS47bcBOAZQ-Mn8KNs" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-30T14:48:54.619Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="7g7UZFZip7H6YEjgptJJ" version="16.2.4" type="github">
   <diagram id="UbNqxVZC1guhLLcriv7x" name="Page-1">
-    <mxGraphModel dx="556" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="383" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="quhVEy0Gu2fzXFc143Mp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="s_u18fh8TWqF_D3X__ss-1" target="quhVEy0Gu2fzXFc143Mp-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="quhVEy0Gu2fzXFc143Mp-5" value="(A)..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="quhVEy0Gu2fzXFc143Mp-4">
+          <mxGeometry x="0.5833" y="-1" relative="1" as="geometry">
+            <mxPoint y="23" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="s_u18fh8TWqF_D3X__ss-1" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;Client&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
           <mxGeometry x="80" y="420" width="120" height="100" as="geometry" />
@@ -24,9 +29,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="quhVEy0Gu2fzXFc143Mp-3" value="&lt;font style=&quot;font-size: 15px&quot;&gt;(A) client_id and redirect_uri&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="quhVEy0Gu2fzXFc143Mp-2">
+        <mxCell id="quhVEy0Gu2fzXFc143Mp-3" value="&lt;font style=&quot;font-size: 15px&quot;&gt;...(A) client_id and redirect_uri&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="quhVEy0Gu2fzXFc143Mp-2">
           <mxGeometry x="-0.7662" relative="1" as="geometry">
-            <mxPoint x="92" as="offset" />
+            <mxPoint x="88" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="quhVEy0Gu2fzXFc143Mp-1" value="&lt;b style=&quot;font-size: 15px&quot;&gt;User&lt;br&gt;Agent&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">

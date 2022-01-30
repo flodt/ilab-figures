@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-30T15:02:06.473Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Y-bmsPPsUJRWVEVblr1X" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-30T15:02:28.912Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="uCzsejK4zQg66JSn9RVY" version="16.2.4" type="github">
   <diagram id="UbNqxVZC1guhLLcriv7x" name="Page-1">
     <mxGraphModel dx="556" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#ffffff" math="0" shadow="0">
       <root>
@@ -45,7 +45,7 @@
         <mxCell id="quhVEy0Gu2fzXFc143Mp-1" value="&lt;b style=&quot;font-size: 15px&quot;&gt;User&lt;br&gt;Agent&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
           <mxGeometry x="80" y="240" width="120" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="_CfRLG04j-PLwJy_zdju-1" value="&lt;b style=&quot;font-size: 15px&quot;&gt;Web-Hosted&lt;br&gt;Client Resource&lt;br style=&quot;font-size: 15px&quot;&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+        <mxCell id="_CfRLG04j-PLwJy_zdju-1" value="&lt;b style=&quot;font-size: 15px&quot;&gt;Web-Hosted&lt;br&gt;Client Resource&lt;br style=&quot;font-size: 15px&quot;&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=15;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
           <mxGeometry x="480" y="440" width="120" height="120" as="geometry" />
         </mxCell>
       </root>

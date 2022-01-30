@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-30T16:42:57.296Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="1_GiZLYzP_YTuvwH2z0l" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-30T16:44:01.004Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="7ACR0nqJFp1cmxCpPxL9" version="16.2.4" type="github">
   <diagram id="UbNqxVZC1guhLLcriv7x" name="Page-1">
     <mxGraphModel dx="556" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#ffffff" math="0" shadow="0">
       <root>
@@ -17,6 +17,19 @@
             <mxPoint x="83" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OEehjUcmaIi9wJgI9I84-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=15;startArrow=none;startFill=0;" edge="1" parent="1" source="s_u18fh8TWqF_D3X__ss-1" target="s_u18fh8TWqF_D3X__ss-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="380" />
+              <mxPoint x="240" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OEehjUcmaIi9wJgI9I84-10" value="(4) UserInfo Request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Roboto;" vertex="1" connectable="0" parent="OEehjUcmaIi9wJgI9I84-9">
+          <mxGeometry x="-0.2857" y="-1" relative="1" as="geometry">
+            <mxPoint x="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="s_u18fh8TWqF_D3X__ss-1" value="&lt;b style=&quot;font-size: 15px&quot;&gt;Relying&lt;br&gt;Party&lt;br&gt;(RP)&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
           <mxGeometry x="40" y="80" width="120" height="400" as="geometry" />
         </mxCell>
@@ -31,6 +44,32 @@
         <mxCell id="OEehjUcmaIi9wJgI9I84-6" value="(2) AuthN &amp;amp; AuthZ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Roboto;" vertex="1" connectable="0" parent="OEehjUcmaIi9wJgI9I84-5">
           <mxGeometry x="0.7077" y="-3" relative="1" as="geometry">
             <mxPoint x="58" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OEehjUcmaIi9wJgI9I84-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.996;entryY=0.61;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=15;startArrow=none;startFill=0;" edge="1" parent="1" source="s_u18fh8TWqF_D3X__ss-4" target="s_u18fh8TWqF_D3X__ss-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="324" />
+              <mxPoint x="370" y="324" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OEehjUcmaIi9wJgI9I84-8" value="(3) AuthN Response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Roboto;" vertex="1" connectable="0" parent="OEehjUcmaIi9wJgI9I84-7">
+          <mxGeometry x="0.7256" y="-4" relative="1" as="geometry">
+            <mxPoint x="102" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OEehjUcmaIi9wJgI9I84-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.996;entryY=0.903;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=15;startArrow=none;startFill=0;" edge="1" parent="1" source="s_u18fh8TWqF_D3X__ss-4" target="s_u18fh8TWqF_D3X__ss-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="441" />
+              <mxPoint x="350" y="441" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OEehjUcmaIi9wJgI9I84-12" value="(5) UserInfo Response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Roboto;" vertex="1" connectable="0" parent="OEehjUcmaIi9wJgI9I84-11">
+          <mxGeometry x="0.2835" y="1" relative="1" as="geometry">
+            <mxPoint x="40" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s_u18fh8TWqF_D3X__ss-4" value="&lt;b style=&quot;font-size: 15px&quot;&gt;OpenID&lt;br&gt;Provider&lt;br&gt;(OP)&lt;br style=&quot;font-size: 15px&quot;&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">

@@ -1,1 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2022-01-30T14:44:36.548Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="OzPUa0BSt8HyiV3Ru8qZ" version="16.2.4" type="github"><diagram id="UbNqxVZC1guhLLcriv7x" name="Page-1">7Vpbc9o4FP41zHQfYHzHPIIJ3YfubCbpTNunjLDly9ZYRBYB+uv3yJZihA25YIjpNA+OdHR0bB99+j5Jpmd6i81nipbxPyTAac/Qgk3PnPYMw7YduHLDtjQMHWGIaBKUJr0y3Ce/sDBqwrpKApwrjoyQlCVL1eiTLMM+U2yIUrJW3UKSqnddogjXDPc+SuvWb0nAYmF1NK1q+BsnUSxuPZINc+T/jChZZeJ+PcMMi7+yeYFkLOGfxygg6x2TedMzPUoIK0uLjYdTnlqZtrLf7EDr83NTnLHXdMgfVrobxu7Xb4+zh6n5/eEhz/tirHK2lfnAAaRHVAllMYlIhtKbyjop3hnzqBrUKp8vhCzBqIPxP8zYVow1WjECppgtUtEKD0y330X/ovKDVwaGLevTzW7rdCtqIcmYR1JCi0c1Nc3ztMKepOmOPbCxG1hgzxklP/FOi2vMTcCnOaknT+QzJyvq4yMZkxhFNMLsiJ9R+vF07txADM1nTBYY3gwcKE4RS55UNCIB6ujZT3QdU4q2Ow5LkmQs34l8yw3gIKanYQv0beWss1WQvM0fCuUTyNrOq1SmAnhvAOGwvOUTSlciDZ/Gf4FhvAJo0eQX5IdkUL/Djyucs0bIfkFz4CUFZihNogzKPowxBgBMnjBlCcz8sWhYJEFQIhrncJd5EY/jSWQVgtuTnj0VyBN41u0mJI5GmkToDC2SlOfvjsxJgf2itwRWzBhQm2GbY7hAYvmFO+SDiJAoxWiZ5AOfLIoGPy9cZ2EZE4pV1DqGj01x/vJ400Sp4sUVWlIgKnr1tcFQBHsbaGsoG+31IGGYY7YHtFagJVXmigjuCMxmM1drIrzQ9bHvNxHe3LUtW7sI4VndIDxHJTBYoBwnvOP+5yE83agzntfEeLDkyrrId1x3u8p3csqfTnjaQLf0oQIPKesnEmBfhr0AA1rXzYB7TBdip5npguForl2G6cxOMp310tLuuP+ZmM6uM91NwXS+j/lc177CMGadpDjH6SzFWS1SnCp/LdGbcTF6q+GrZzgpJG8yVxDlPK74RrsYt35eDDsMlqbby02Rd9kOpYj/99KEj4GIBY82ly01rKpkuY4Thu+XqADGmqKliuD9rSrCbtjIZ47v4nl4AKcfh0f9APIOIsxVWUdW1ztnLfKEJN45ZrHkMUsT6hQQvRUx7ofo4SZhz3II5VINh7aoVmLIK1ILKxEdjEaOKqS6O3pBSYvaLaYJpI1zZWc3GMYrZVdvW3ZPgtGoLmyTP0v4dvTNbUve+nwJL3Z0z0da17aCr28W25G4OyympoxGTwr37zoDyLYT6/y6+/IR8ZXrrmW9T3j1swmv/jEfG05SXn2gaZaqvCPzHMqraY7jee9aIL5fec2rVF694XvBjEvvLSUMxAHQwr8VSHLrnPJWQ9095dVb+1rAl6hD9fCsHeWVe9TzC6/ZgvC+SnXLlntMnyoFPZv0veII7TeTPrMD2qfXxrDz2tew67QdsxXtu+ChrnWdGlfnnk/TP+emp6rbISp5l7q57ciZeSk5s2qQamcfuXfi0coGUNXCru8mX3E89ptJKqxizyepUK1+Fleiv/rpoXnzPw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-30T14:48:08.382Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ZXeS47bcBOAZQ-Mn8KNs" version="16.2.4" type="github">
+  <diagram id="UbNqxVZC1guhLLcriv7x" name="Page-1">
+    <mxGraphModel dx="556" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="quhVEy0Gu2fzXFc143Mp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="s_u18fh8TWqF_D3X__ss-1" target="quhVEy0Gu2fzXFc143Mp-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s_u18fh8TWqF_D3X__ss-1" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;Client&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+          <mxGeometry x="80" y="420" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="s_u18fh8TWqF_D3X__ss-2" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;Resource&lt;br style=&quot;font-size: 15px;&quot;&gt;Owner&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+          <mxGeometry x="80" y="60" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="s_u18fh8TWqF_D3X__ss-4" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;Authorization&lt;br style=&quot;font-size: 15px;&quot;&gt;Server&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+          <mxGeometry x="440" y="240" width="120" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="quhVEy0Gu2fzXFc143Mp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.091;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="quhVEy0Gu2fzXFc143Mp-1" target="s_u18fh8TWqF_D3X__ss-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="265" />
+              <mxPoint x="270" y="265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="quhVEy0Gu2fzXFc143Mp-3" value="&lt;font style=&quot;font-size: 15px&quot;&gt;(A) client_id and redirect_uri&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="quhVEy0Gu2fzXFc143Mp-2">
+          <mxGeometry x="-0.7662" relative="1" as="geometry">
+            <mxPoint x="92" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="quhVEy0Gu2fzXFc143Mp-1" value="&lt;b style=&quot;font-size: 15px&quot;&gt;User&lt;br&gt;Agent&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="120" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

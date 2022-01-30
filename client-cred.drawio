@@ -1,1 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2022-01-30T16:34:32.298Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="E066ri_zkjF-OxD3XHja" version="16.2.4" type="github"><diagram id="UbNqxVZC1guhLLcriv7x" name="Page-1">3VhRb9owEP41kbYHqpCQNDxCKJ2mTZvaSt2ekJM4iTcTZ44psF+/c+KQmEALhXbreEC+z+eLc/f5Poxh+/PVNUd5+plFmBqWGa0Me2JYluO48C2BdQVcmk4FJJxEFdRvgFvyGyvQVOiCRLjQHAVjVJBcB0OWZTgUGoY4Z0vdLWZUf2qOEtwBbkNEu+g9iUSqUNc0m4kPmCSpevSwnghQ+DPhbJGp5xmWHZefanqO6ljKv0hRxJYtyL4ybJ8zJqrRfOVjKlNbp61aN90zu9k3x5k4ZEFC8Zj0fOsmJ3cWDmdD8/pjz1Z7E+s6HziC9CiTcZGyhGWIXjXouHxnLKOaYDU+nxjLAewD+AMLsVa1RgvBAErFnKpZ2DBff1PrS+O7NC4sp7Ynq/bsZK2smGVCRe07yvYZZbzcum2aQ1kdwAmlLTz2QhyGgBeCs5+4NRN4zsCRK7rJVPkt2IKHKjXFbNH34tS7u/81nU3sb7NZUfRqziKeYPGI36Dyk+ltPUCV6hqzOYY3BQeOKRLkQWcnUiRPNn5q6YhztG455IxkomhF/ioBcFDHFY5nFXGt29Pn+cOg2kFttV6lgUoiHkFKlaoHRBcqDe/G7wG4waoalvllmWFuWC6FlI8DOUrk6CsqiiXjEXj4HEdQTIJosZPjn1AAjUzjJaIkyWAcwjqIbo8fMBcEWsVITcxJFFVHABfkNwrKeJI+Ku0Q3BkbzuRpqvq+aZq7iffYOZUbwqtdfVFtRustGq/Uqp554boDWytqz6rM46jX4cpQj7q1nsVxAQdEJ8+xdHnsBLbosiGGVnb310L22rIUvaKszQgc+k6+KgtRz9dk8imRRVGxYGtBPdMhlN4SlykR+DZHZd9YgmrqNNvqThHCXryzO7mhh4N4D5mmaE6oTPUNC1jZYUuvul2lQoCAWo58RQcyLr+kQ3GRMAYUQzkpLkI2LyfConSdxlVMGDZR93bGDhf3cs7b6iEDZS9belurZNqS2g24i4Mai47tMP1OBV9B9rbr7mAvGuyqu2cFtuuepErWgarUP7cqnVQWq9v4R081/hMO+JtRi80PmwPVYt8JfY5a2Kdpgzrz3muJQZdC5xGDhoJnod45afzyCvV0p/rPFOpQgTJfSqCcvyFQm3vZxqjuZZcn3ss2P3a372Uxdnffy6LLYbCn4R2qgIO/pYDPupcN+joDbfvxe9kT/i9zL3O78uxLeR6FIZbn07yDKmbdW9k7wxqXKh6DEqa13/t/UGh933WPEVrnXEILOmt5rt6EThPemiiOFrS+SL68EHcv8ecR4tEC+hqHMgvCsjMp6C3mD29Hjg/4O+uNy/HgNW+MYDZ/wlbsb/7otq/+AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-30T16:35:48.537Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="q5D2nuo0hItGE7cPHvMp" version="16.2.4" type="github">
+  <diagram id="UbNqxVZC1guhLLcriv7x" name="Page-1">
+    <mxGraphModel dx="556" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gleBi-C2RpiT2ec_90GJ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=15;fontColor=#009900;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="s_u18fh8TWqF_D3X__ss-1" target="s_u18fh8TWqF_D3X__ss-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="270" />
+              <mxPoint x="270" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gleBi-C2RpiT2ec_90GJ-4" value="(A) Client Authentication" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#CC0000;" parent="gleBi-C2RpiT2ec_90GJ-3" vertex="1" connectable="0">
+          <mxGeometry x="-0.6643" y="-2" relative="1" as="geometry">
+            <mxPoint x="93" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_u18fh8TWqF_D3X__ss-1" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;Client&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+          <mxGeometry x="80" y="240" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gleBi-C2RpiT2ec_90GJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=15;fontColor=#CC0000;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="s_u18fh8TWqF_D3X__ss-4" target="s_u18fh8TWqF_D3X__ss-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="330" />
+              <mxPoint x="410" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gleBi-C2RpiT2ec_90GJ-6" value="(B) Access Token&lt;br&gt;(no Refresh Token)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#CC6600;" parent="gleBi-C2RpiT2ec_90GJ-5" vertex="1" connectable="0">
+          <mxGeometry x="0.3286" y="2" relative="1" as="geometry">
+            <mxPoint x="45" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_u18fh8TWqF_D3X__ss-4" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;Authorization&lt;br style=&quot;font-size: 15px;&quot;&gt;Server&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+          <mxGeometry x="480" y="240" width="120" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

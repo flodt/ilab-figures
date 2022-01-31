@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-01-31T09:57:17.778Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.5.2" etag="77KA1xSwRR-KimiosAa0" type="github"><diagram id="wirK0JvDv9c2AWTBAR4l">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-31T10:03:30.488Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="YF4H5DLZMupQ7WbGeAfY" version="16.5.2" type="github">
+  <diagram id="wirK0JvDv9c2AWTBAR4l" name="Page-1">
+    <mxGraphModel dx="385" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-pp9Qa3xS4Kt_9ltmhfw-1" value="" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server_storage;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="190" y="340" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="-pp9Qa3xS4Kt_9ltmhfw-2" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot;&gt;Confidential&lt;br&gt;Clients&lt;/font&gt;" style="verticalAlign=middle;verticalLabelPosition=middle;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.secured;spacingTop=42;fontStyle=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="202.5" y="200" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-pp9Qa3xS4Kt_9ltmhfw-4" value="" style="fontColor=#333333;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#f5f5f5;strokeColor=#666666;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.laptop;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="120" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="-pp9Qa3xS4Kt_9ltmhfw-5" value="&lt;b&gt;Public&lt;br&gt;Clients&lt;br&gt;&lt;/b&gt;" style="verticalAlign=middle;verticalLabelPosition=middle;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.unsecure;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;spacingTop=42;" vertex="1" parent="1">
+          <mxGeometry x="380" y="200" width="80" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

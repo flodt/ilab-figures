@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-01-31T10:04:10.851Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.5.2" etag="VlYA4AoO2ekdtCfUrKi5" type="github"><diagram id="GUHKCMrLsk32fNwBnEd2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-31T10:09:11.894Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ce0eEKfyxcGyj1p61t9J" version="16.5.2" type="github">
+  <diagram id="GUHKCMrLsk32fNwBnEd2" name="Page-1">
+    <mxGraphModel dx="544" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RY3e2c9QI7-9knr0AMsr-1" value="&lt;font style=&quot;font-size: 17px&quot; face=&quot;Roboto&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot;&gt;&lt;b&gt;Authentication&lt;/b&gt;&lt;br&gt;Who are you?&lt;br&gt;&lt;i&gt;(verify the identity)&lt;/i&gt;&lt;br&gt;&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.contacts;" vertex="1" parent="1">
+          <mxGeometry x="90" y="200" width="176.67" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="RY3e2c9QI7-9knr0AMsr-3" value="&lt;b&gt;Authorization&lt;/b&gt;&lt;br&gt;What are you allowed to do?&lt;br&gt;&lt;i&gt;(verify the permissions)&lt;/i&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.role_assignment_policy;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="132.41" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

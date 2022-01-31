@@ -1,1 +1,98 @@
-<mxfile host="app.diagrams.net" modified="2022-01-31T09:43:20.827Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ztkAqM9nMGZAtfQCHhcJ" version="16.5.2" type="github"><diagram id="UbNqxVZC1guhLLcriv7x" name="Page-1">7Vpbc9o4FP41zHQfYOQr5hFM6D50ZzNJZ9o+ZWRbvmyNRWQRoL9+JVuKLWzIBUNMp5kMWOccSfbRp++TZAaGu9x+JnAV/4MDlA50EGwHxnyg65qp6wP+D4JdaRmPjdIQkSQQQZXhPvmFhBEI6zoJUK4EUoxTmqxUo4+zDPlUsUFC8EYNC3Gq9rqCEWoY7n2YNq3fkoDGwmoDUDn+RkkUi64n0uFB/2dE8DoT/Q10Iyz+SvcSyrZEfB7DAG9qJuNmYLgEY1peLbcuSnluZdrKeosD3uf7Jiijr6mQP6w1J4ydr98eFw9z4/vDQ54PbXFvdCfzgQKWHlHEhMY4whlMbyrrrHhmxFsFrFTFfMF4xYwaM/6HKN2JsYZripkppstUeNkNk913Ub8o/OCFkW7J8nxb9853ohTijLo4xaS4VQMA1wWFPUnTmj2wkBOYzJ5Tgn+imsfRPcO2maeZPJHPHK+Jj45kTGIUkgjRI3FiWvB01joQQ/MZ4SViT8YCCEohTZ5UNEIB6ug5TlSdEgJ3tYAVTjKa11q+5QYWIOanbgn07eSss1SQvC2eXZR3IEu1R6lMBfDeAMJx2eUTTNciDZ+mfzHDdM2gRZJfLD84Y+U79LhGOW2F7BfoMWJSYAbTJMrYtc/GGDEAzJ4QoQmb+VPhWCZBUCIa5awXr2iP40lklTVuzQbWXCBP4Fmz2pA4mQCJ0AVcJinP3x32cIH9orYEVkwpozbdMqbsgyWWf/CAfBRhHKUIrpJ85ONl4fDzInQRlm2yy6rVJoaPTXH+8GiroExQqnhwhZYUiIpaQzAai8beBtoGyiZ7NXAY5ojuAa0TaEmVuSKCOwKzxcIBbYQXOj7y/TbC8xzLtMBFCM/sB+HZKoHp1guEdzz+PISn6U3Gc9sYj625sj7yHdfdvvKdnPKnEx4YaaY2VuAhZf1EAhzKZi/AgOZ1M+Ae04XIbme6YDzxwGWYzugl05kvLe2Ox5+J6awm090UTOf7iM918JUNY9ZLirPt3lKc2SHFqfLXEb3pF6O3Br4Gup2y5M08BVH245pvtItxG+bFsLPBApq12hZ5l352FfFvN034GIi22K150tPAqkqWmzih6H4FC2BsCFypCN7fqkLkhK18ZvsO8sIDOP04PGoHkHcQYY7KOrK4qZ21yBOSuHbMYspjljbUKSB6K2KcD9HDbUKf5ZBdl2o4tkSxEkNekFpYiehoMrFVIdWcyQtKWpRuEUlY2jhX9naDob9SdrWuZfckGE2awjb7s4TvRt+cruRtyJfwYkf3fKR1bSv45maxG4m7Q2JqytbISc39u8kYZLtp6/y6+/IR8ZXrrmm+T3i1swmv9jEvG05SXm0EgKkq78Q4h/ICYNuu+64F4vuV17hK5dVa3hcsuPTeEkyZODC08HcFktx6p7zVUPdPebXO3hbwJepYPTzrRnnlHvX8wmt0ILyvUt3Sc4/IU6WgZ5O+Vxyh/WbSZ/RA+7TGGPZe+1p2nZZtdKJ9FzzUNa9T45rc82n+59z0VHU7RCXvUjenGzkzLiVnZgNS3ewj9048OtkAqlrY993kK47HfjNJZavY80kqK1Y/iyvRX/320Lj5Hw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-31T09:48:28.096Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="O7EN2SOYaKYz5i3kiAW9" version="16.5.2" type="github">
+  <diagram id="UbNqxVZC1guhLLcriv7x" name="Page-1">
+    <mxGraphModel dx="1422" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ND73tGQWPx2Dg5tTszTS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.068;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="s_u18fh8TWqF_D3X__ss-1" target="s_u18fh8TWqF_D3X__ss-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="107" />
+              <mxPoint x="300" y="107" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ND73tGQWPx2Dg5tTszTS-2" value="(A) Access Token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontColor=#0066CC;" vertex="1" connectable="0" parent="ND73tGQWPx2Dg5tTszTS-1">
+          <mxGeometry x="-0.6947" y="-1" relative="1" as="geometry">
+            <mxPoint x="111" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ND73tGQWPx2Dg5tTszTS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="s_u18fh8TWqF_D3X__ss-1" target="s_u18fh8TWqF_D3X__ss-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="285" y="248" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ND73tGQWPx2Dg5tTszTS-10" value="(C) Refresh Token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Roboto;fontColor=#990099;" vertex="1" connectable="0" parent="ND73tGQWPx2Dg5tTszTS-9">
+          <mxGeometry x="-0.6706" relative="1" as="geometry">
+            <mxPoint x="60" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ND73tGQWPx2Dg5tTszTS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=15;startArrow=classic;startFill=1;endArrow=none;endFill=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="s_u18fh8TWqF_D3X__ss-1" target="s_u18fh8TWqF_D3X__ss-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="285" y="313" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ND73tGQWPx2Dg5tTszTS-13" value="(D) New Access Token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Roboto;fontColor=#CC0000;" vertex="1" connectable="0" parent="ND73tGQWPx2Dg5tTszTS-12">
+          <mxGeometry x="-0.7294" y="-3" relative="1" as="geometry">
+            <mxPoint x="67" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_u18fh8TWqF_D3X__ss-1" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;Client&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+          <mxGeometry x="80" y="80" width="120" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="ND73tGQWPx2Dg5tTszTS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="s_u18fh8TWqF_D3X__ss-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="199" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="199" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ND73tGQWPx2Dg5tTszTS-4" value="(B) Invalid/Expired Token Error" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Roboto;fontColor=#CC6600;" vertex="1" connectable="0" parent="ND73tGQWPx2Dg5tTszTS-3">
+          <mxGeometry x="0.3645" y="-2" relative="1" as="geometry">
+            <mxPoint x="59" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_u18fh8TWqF_D3X__ss-3" value="&lt;b style=&quot;font-size: 15px&quot;&gt;Resource&lt;br&gt;Server&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=15;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+          <mxGeometry x="520" y="80" width="120" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="s_u18fh8TWqF_D3X__ss-4" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;Authorization&lt;br style=&quot;font-size: 15px;&quot;&gt;Server&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
+          <mxGeometry x="383" y="215" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ND73tGQWPx2Dg5tTszTS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.068;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="201" y="396" as="sourcePoint" />
+            <mxPoint x="521.96" y="396.20000000000005" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="301" y="396" />
+              <mxPoint x="301" y="396" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ND73tGQWPx2Dg5tTszTS-6" value="(E) New Access Token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontColor=#CC0000;" vertex="1" connectable="0" parent="ND73tGQWPx2Dg5tTszTS-5">
+          <mxGeometry x="-0.6947" y="-1" relative="1" as="geometry">
+            <mxPoint x="111" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ND73tGQWPx2Dg5tTszTS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="521" y="449" as="sourcePoint" />
+            <mxPoint x="200" y="449" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="449" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ND73tGQWPx2Dg5tTszTS-8" value="(F) Protected Resource" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Roboto;fontColor=#009900;" vertex="1" connectable="0" parent="ND73tGQWPx2Dg5tTszTS-7">
+          <mxGeometry x="0.3645" y="-2" relative="1" as="geometry">
+            <mxPoint x="59" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

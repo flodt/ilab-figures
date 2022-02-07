@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-01-30T14:38:08.856Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="0CaBSK_cwaCFiBBj4bRo" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-07T15:35:38.903Z" agent="5.0 (X11)" etag="uE0XigC9uYJMgv8k_xQC" version="16.5.3" type="github">
   <diagram id="UbNqxVZC1guhLLcriv7x" name="Page-1">
-    <mxGraphModel dx="604" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="s_u18fh8TWqF_D3X__ss-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontColor=#00CC00;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="s_u18fh8TWqF_D3X__ss-1" target="s_u18fh8TWqF_D3X__ss-2">
+        <mxCell id="s_u18fh8TWqF_D3X__ss-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontColor=#00CC00;fillColor=#d5e8d4;strokeColor=#000000;" parent="1" source="s_u18fh8TWqF_D3X__ss-1" target="s_u18fh8TWqF_D3X__ss-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="250" y="105" />
@@ -12,12 +12,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="s_u18fh8TWqF_D3X__ss-7" value="(A) Authorization Request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#009900;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" connectable="0" parent="s_u18fh8TWqF_D3X__ss-6">
+        <mxCell id="s_u18fh8TWqF_D3X__ss-7" value="(A) Authorization Request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#000000;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="s_u18fh8TWqF_D3X__ss-6" vertex="1" connectable="0">
           <mxGeometry x="-0.76" relative="1" as="geometry">
             <mxPoint x="91" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s_u18fh8TWqF_D3X__ss-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=15;fontColor=#FF8000;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="s_u18fh8TWqF_D3X__ss-1" target="s_u18fh8TWqF_D3X__ss-4">
+        <mxCell id="s_u18fh8TWqF_D3X__ss-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=15;fontColor=#FF8000;fillColor=#f8cecc;strokeColor=#000000;" parent="1" source="s_u18fh8TWqF_D3X__ss-1" target="s_u18fh8TWqF_D3X__ss-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="260" y="255" />
@@ -25,12 +25,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="s_u18fh8TWqF_D3X__ss-12" value="(C) Authorization Grant" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#CC0000;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" connectable="0" parent="s_u18fh8TWqF_D3X__ss-10">
+        <mxCell id="s_u18fh8TWqF_D3X__ss-12" value="(C) Authorization Grant" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#000000;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="s_u18fh8TWqF_D3X__ss-10" vertex="1" connectable="0">
           <mxGeometry x="0.1417" y="-2" relative="1" as="geometry">
             <mxPoint x="-17" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s_u18fh8TWqF_D3X__ss-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="s_u18fh8TWqF_D3X__ss-1" target="s_u18fh8TWqF_D3X__ss-3">
+        <mxCell id="s_u18fh8TWqF_D3X__ss-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=15;fillColor=#ffe6cc;strokeColor=#000000;" parent="1" source="s_u18fh8TWqF_D3X__ss-1" target="s_u18fh8TWqF_D3X__ss-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="260" y="405" />
@@ -38,45 +38,45 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="s_u18fh8TWqF_D3X__ss-15" value="(E) Access Token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#CC6600;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" connectable="0" parent="s_u18fh8TWqF_D3X__ss-14">
+        <mxCell id="s_u18fh8TWqF_D3X__ss-15" value="(E) Access Token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#000000;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="s_u18fh8TWqF_D3X__ss-14" vertex="1" connectable="0">
           <mxGeometry x="0.1" y="2" relative="1" as="geometry">
             <mxPoint x="-12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s_u18fh8TWqF_D3X__ss-1" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;Client&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+        <mxCell id="s_u18fh8TWqF_D3X__ss-1" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;Client&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
           <mxGeometry x="80" y="80" width="120" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="s_u18fh8TWqF_D3X__ss-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.996;entryY=0.189;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;fontColor=#FF8000;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="s_u18fh8TWqF_D3X__ss-2" target="s_u18fh8TWqF_D3X__ss-1">
+        <mxCell id="s_u18fh8TWqF_D3X__ss-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.996;entryY=0.189;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;fontColor=#FF8000;fillColor=#f8cecc;strokeColor=#000000;" parent="1" source="s_u18fh8TWqF_D3X__ss-2" target="s_u18fh8TWqF_D3X__ss-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s_u18fh8TWqF_D3X__ss-9" value="(B) Authorization Grant" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#CC0000;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" connectable="0" parent="s_u18fh8TWqF_D3X__ss-8">
+        <mxCell id="s_u18fh8TWqF_D3X__ss-9" value="(B) Authorization Grant" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#000000;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="s_u18fh8TWqF_D3X__ss-8" vertex="1" connectable="0">
           <mxGeometry x="-0.1455" y="1" relative="1" as="geometry">
             <mxPoint x="-17" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s_u18fh8TWqF_D3X__ss-2" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;Resource&lt;br style=&quot;font-size: 15px;&quot;&gt;Owner&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+        <mxCell id="s_u18fh8TWqF_D3X__ss-2" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;Resource&lt;br style=&quot;font-size: 15px;&quot;&gt;Owner&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
           <mxGeometry x="440" y="80" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="s_u18fh8TWqF_D3X__ss-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1.004;entryY=0.939;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;fontColor=#0066CC;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="s_u18fh8TWqF_D3X__ss-3" target="s_u18fh8TWqF_D3X__ss-1">
+        <mxCell id="s_u18fh8TWqF_D3X__ss-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1.004;entryY=0.939;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;fontColor=#0066CC;fillColor=#dae8fc;strokeColor=#000000;" parent="1" source="s_u18fh8TWqF_D3X__ss-3" target="s_u18fh8TWqF_D3X__ss-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s_u18fh8TWqF_D3X__ss-17" value="(F) Protected Resource" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#0066CC;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" connectable="0" parent="s_u18fh8TWqF_D3X__ss-16">
+        <mxCell id="s_u18fh8TWqF_D3X__ss-17" value="(F) Protected Resource" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#000000;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="s_u18fh8TWqF_D3X__ss-16" vertex="1" connectable="0">
           <mxGeometry x="0.1877" y="1" relative="1" as="geometry">
             <mxPoint x="22" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s_u18fh8TWqF_D3X__ss-3" value="&lt;b style=&quot;font-size: 15px&quot;&gt;Resource&lt;br&gt;Server&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=15;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+        <mxCell id="s_u18fh8TWqF_D3X__ss-3" value="&lt;b style=&quot;font-size: 15px&quot;&gt;Resource&lt;br&gt;Server&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=15;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
           <mxGeometry x="440" y="380" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="s_u18fh8TWqF_D3X__ss-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.996;entryY=0.563;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="s_u18fh8TWqF_D3X__ss-4" target="s_u18fh8TWqF_D3X__ss-1">
+        <mxCell id="s_u18fh8TWqF_D3X__ss-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.996;entryY=0.563;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;fillColor=#ffe6cc;strokeColor=#000000;" parent="1" source="s_u18fh8TWqF_D3X__ss-4" target="s_u18fh8TWqF_D3X__ss-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s_u18fh8TWqF_D3X__ss-13" value="(D) Access Token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#CC6600;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" connectable="0" parent="s_u18fh8TWqF_D3X__ss-11">
+        <mxCell id="s_u18fh8TWqF_D3X__ss-13" value="(D) Access Token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#000000;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="s_u18fh8TWqF_D3X__ss-11" vertex="1" connectable="0">
           <mxGeometry x="0.188" relative="1" as="geometry">
             <mxPoint x="23" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s_u18fh8TWqF_D3X__ss-4" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;Authorization&lt;br style=&quot;font-size: 15px;&quot;&gt;Server&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+        <mxCell id="s_u18fh8TWqF_D3X__ss-4" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;Authorization&lt;br style=&quot;font-size: 15px;&quot;&gt;Server&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
           <mxGeometry x="440" y="230" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
